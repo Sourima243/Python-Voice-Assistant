@@ -1,2 +1,1 @@
-# Python-Voice-Assistant
-Code Repository Description
+A Python Voice Assistant is an intelligent program that uses speech recognition and text-to-speech technology to interact with users through voice commands. It listens to the user’s voice, understands the command, processes it, and responds verbally or performs tasks automatically.
